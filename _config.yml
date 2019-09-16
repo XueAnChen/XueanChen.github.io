@@ -4,7 +4,7 @@ email: xueanchen12@163.com
 description: > # this means to ignore newlines until "baseurl:"
   陈雪俺的博客
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: https://XueanChen.github.io # the base hostname & protocol for your site
+url: https://xueanchen.github.io/ # the base hostname & protocol for your site
 rss_url: /pages/feed.xml
 author: XueanChen
 
@@ -20,8 +20,8 @@ github: XueAnChen
 instagram: ----
 linkedin:----
 # avatar and Favicon
-avatar: https://XueanChen.github.io/site-avatar.png
-favicon: https://XueanChen.github.io/site-favicon.ico
+avatar: https://xueanchen.github.io/site-avatar.png
+favicon: https://xueanchen.github.io/site-favicon.ico
 
 # disqus config
 disqus:
