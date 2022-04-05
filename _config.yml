@@ -14,7 +14,7 @@ filter: 'category'
 recent_num: 20
 
 # Social account
-weibo: 吃兔子的萝卜3130
+weibo:
 github: XueAnChen
 # avatar and Favicon
 avatar: https://xueanchen.github.io/site-avatar.png
